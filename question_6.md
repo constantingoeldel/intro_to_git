@@ -7,5 +7,5 @@ Hint: The commit manual: `git commit --help`
 Answer:
 
 ```
-
+git commit -m "message"
 ```

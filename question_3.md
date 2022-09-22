@@ -5,5 +5,5 @@ Which command is used to go to any point in the repository history? In this case
 Answer:
 
 ```
-
+git checkout 07e3307
 ```
